@@ -3,21 +3,24 @@ Privacy Policy for Outsider - Find the Imposter
 Last updated: March 2026
 
 1. Introduction
-Welcome to Outsider - Find the Imposter. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you use our mobile application (the "App") and tell you about your privacy rights.
+Welcome to Outsider - Find the Imposter ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you use our mobile application (the "App") and tell you about your privacy rights.
 
 2. Information We Collect
 The App is designed to be played locally with friends. We do not require you to create an account, provide a name, email address, or any personal identification to use the core features of the App.
 
-3. Advertising and Third-Party Services
+3. In-App Purchases and Subscriptions
+We offer premium subscriptions via in-app purchases. If you choose to subscribe, your purchase is processed securely by Apple or Google depending on your platform. We use RevenueCat to manage and verify your subscription status. We may collect and store your purchase history (linked only to an anonymous App User ID) to provide you with access to premium features and allow you to restore purchases across devices. We do not process, collect, or store your payment details or credit card information.
+
+4. Advertising and Third-Party Services
 We use third-party advertising companies, such as Google AdMob, to serve ads when you visit our App. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other apps in order to provide advertisements about goods and services of interest to you.
 - Google AdMob may use advertising IDs (such as the Android Advertising ID or Apple Identifier for Advertisers) and device data to serve personalized or non-personalized ads.
 - You can learn more about how Google uses your data here: https://policies.google.com/technologies/partner-sites
 
-4. Local Data Storage
-The App may use your device's local storage to save your game preferences, custom categories, or progress. This data remains on your device and is not transmitted to our servers.
+5. Local Data Storage
+The App uses your device's local storage to save your game preferences, custom categories, and match progress. This data remains locally on your device and is not transmitted to our servers.
 
-5. Changes to This Privacy Policy
+6. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date at the top of this Privacy Policy.
 
-6. Contact Us
+7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at: pal.interactive9@gmail.com
